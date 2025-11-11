@@ -1467,7 +1467,15 @@
 							"bindingPathID": "a4e6c6bf-e7fc-4c93-8d96-698e9d434ac2",
 							"request": [],
 							"response": [],
-							"attributes": [],
+							"attributes": [
+								{
+									"attribute": "sorterEnable",
+									"grouping": "Sorter",
+									"value": "true",
+									"script": "",
+									"translation": []
+								}
+							],
 							"data": [
 								{
 									"fieldNo": "6e7a2ec0-e180-40df-949f-63fd7b0973a9",
@@ -1478,7 +1486,15 @@
 									"customComponent": false,
 									"request": [],
 									"response": [],
-									"attributes": [],
+									"attributes": [
+										{
+											"attribute": "sorting",
+											"grouping": "Sorter",
+											"value": "Both",
+											"script": "",
+											"translation": []
+										}
+									],
 									"data": [
 										{
 											"fieldNo": "d4209768-8fbf-404b-9a19-1c23ab9cf849",
@@ -2235,7 +2251,7 @@
 		}
 	],
 	"componentInterface": [],
-	"ver": "25.11.11.1225",
+	"ver": "25.11.11.1523",
 	"application": "appplant",
 	"title": "",
 	"description": "",
