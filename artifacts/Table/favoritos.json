@@ -1,0 +1,75 @@
+{
+	"id": "d42d4ca9-5a71-446e-9c84-4565d58344c3",
+	"createdAt": "2025-11-08T13:32:35.000Z",
+	"createdBy": "admin",
+	"fields": [
+		{
+			"id": "6903040c-6484-41e8-daad-ee7e2f9c3e6e",
+			"fieldName": "plant_id",
+			"fieldType": "uuid",
+			"isUnique": true,
+			"description": "id da planta"
+		},
+		{
+			"id": "1a6a6270-930b-4e07-88f2-d6ded7e8c408",
+			"fieldName": "commum_name",
+			"fieldType": "text",
+			"isUnique": false,
+			"description": "nome comun da planta",
+			"isNullable": true
+		},
+		{
+			"id": "908d50b0-dded-4264-aef5-b29646ab5f78",
+			"fieldName": "year",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "741cc598-e323-4dd0-9100-76a3bb3ebc08",
+			"fieldName": "bibliography",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "0893b42f-2011-4842-b110-31ea79e95bb7",
+			"fieldName": "author",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "f50562f5-28ce-4a3f-c470-38d0cd12dc4d",
+			"fieldName": "genus",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "c87169b7-c255-4804-baee-51e720ca9fe8",
+			"fieldName": "family",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "ca347e02-e8be-40af-bfca-770e87c39875",
+			"fieldName": "image_url",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": true
+		}
+	],
+	"indices": [],
+	"foreignKeys": [],
+	"name": "favoritos",
+	"description": "lista das plantas favoritas",
+	"ver": "25.11.10.1738",
+	"enableAudit": false,
+	"includeDataInPackage": true,
+	"package": "97d800db-dca1-4116-90fa-c3fe7e654e34",
+	"generationStrategy": null,
+	"rolesRead": [],
+	"rolesWrite": []
+}

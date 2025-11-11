@@ -1,0 +1,91 @@
+{
+	"id": "bc061836-3c8c-460f-8e04-25b11b1dcb23",
+	"createdAt": "2025-11-07T00:21:44.000Z",
+	"createdBy": "admin",
+	"auth": [],
+	"endpoints": [],
+	"paths": [
+		{
+			"id": "03d80580-cd6f-4b5e-b197-3ac919e72f18",
+			"method": "GET",
+			"path": "/plants?token=usr-6QSnZVaQ6NqREVEm-QPW56uG5ZDHDYMvVKowPNufsas",
+			"description": "",
+			"parameters": [],
+			"headers": [],
+			"responses": [],
+			"content": [],
+			"auth": [],
+			"endpoints": []
+		},
+		{
+			"id": "294e150e-ed09-4fcd-c5c1-ce93dddf8033",
+			"method": "GET",
+			"path": "/plants/(ID)?token=usr-6QSnZVaQ6NqREVEm-QPW56uG5ZDHDYMvVKowPNufsas",
+			"description": "",
+			"parameters": [
+				{
+					"name": "ID",
+					"description": "",
+					"required": true,
+					"inPath": true,
+					"value": "",
+					"default": "1",
+					"example": ""
+				}
+			],
+			"headers": [],
+			"responses": [],
+			"content": [],
+			"auth": [],
+			"endpoints": []
+		},
+		{
+			"id": "307eb61b-83d6-4eb6-955b-9cfea037d59c",
+			"method": "GET",
+			"path": "/plants?token=usr-6QSnZVaQ6NqREVEm-QPW56uG5ZDHDYMvVKowPNufsas&page=(page)",
+			"description": "",
+			"parameters": [
+				{
+					"name": "page",
+					"description": "",
+					"required": false,
+					"inPath": true,
+					"value": "",
+					"default": "1",
+					"example": ""
+				}
+			],
+			"headers": [],
+			"responses": [],
+			"content": [],
+			"auth": [],
+			"endpoints": []
+		}
+	],
+	"definitions": [],
+	"documentation": [],
+	"name": "external plant apt",
+	"endpoint": "https://trefle.io/api/v1",
+	"ver": "25.11.10.2155",
+	"version": null,
+	"description": "api que busca os dados do enp point externo: https://trefle.io/api",
+	"mediaType": null,
+	"securitySchemes": null,
+	"swaggerURI": null,
+	"swaggerSystem": null,
+	"apiType": "",
+	"about": null,
+	"enableProxy": true,
+	"forwardProxy": null,
+	"restrictAccess": false,
+	"enableTrace": false,
+	"enableIDE": true,
+	"internalAPI": false,
+	"isPublic": false,
+	"tlsAllowUntrusted": false,
+	"useOwnProcess": false,
+	"package": "97d800db-dca1-4116-90fa-c3fe7e654e34",
+	"apiGroup": null,
+	"apiFormat": 1,
+	"roles": []
+}

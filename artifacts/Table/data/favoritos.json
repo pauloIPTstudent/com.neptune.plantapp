@@ -1,0 +1,47 @@
+[
+	{
+		"id": "5a97ae79-e2c4-4144-95d9-9dd27c39b73e",
+		"createdAt": "1762805016848",
+		"updatedAt": "1762805016848",
+		"createdBy": "admin",
+		"updatedBy": "admin",
+		"plant_id": "11971",
+		"commum_name": "Milfoil",
+		"year": "Year discovery    :1753",
+		"bibliography": "Bibliography    :Sp. Pl.: 899 (1753)",
+		"author": "Author    :L.",
+		"genus": "Genus    :Achillea",
+		"family": "Family   :Asteraceae",
+		"image_url": "https://bs.plantnet.org/image/o/d788a757cd8bac8c3b1378a970c078a7a937a174"
+	},
+	{
+		"id": "593c50c0-cfa6-4f21-94a4-da3553676812",
+		"createdAt": "1762809896658",
+		"updatedAt": "1762809896658",
+		"createdBy": "admin",
+		"updatedBy": "admin",
+		"plant_id": "227114",
+		"commum_name": "Barnyard grass",
+		"year": "Year discovery    :1753",
+		"bibliography": "Bibliography    :Sp. Pl.: 71 (1753)",
+		"author": "Author    :L.",
+		"genus": "Genus    :Dactylis",
+		"family": "Family   :Poaceae",
+		"image_url": "https://bs.plantnet.org/image/o/f84a7d4fc2e627ccd451f568479b1932c2b2d900"
+	},
+	{
+		"id": "19b22cae-3463-4e56-86a3-0aadd3e8baea",
+		"createdAt": "1762801963056",
+		"updatedAt": "1762801963056",
+		"createdBy": "admin",
+		"updatedBy": "admin",
+		"plant_id": "109482",
+		"commum_name": "Common nettle",
+		"year": "Year discovery    :1753",
+		"bibliography": "Bibliography    :Sp. Pl.: 984 (1753)",
+		"author": "Author    :L.",
+		"genus": "Genus    :Urtica",
+		"family": "Family   :Urticaceae",
+		"image_url": "https://bs.plantnet.org/image/o/9db58cbb3538a6b77384f972971d51869228e545"
+	}
+]

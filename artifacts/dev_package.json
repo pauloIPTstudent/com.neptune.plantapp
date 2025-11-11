@@ -1,0 +1,98 @@
+{
+	"id": "97d800db-dca1-4116-90fa-c3fe7e654e34",
+	"createdAt": "2025-11-08T13:23:58.000Z",
+	"createdBy": "admin",
+	"git": {
+		"remote": "https://github.com/pauloIPTstudent/com.neptune.plantapp.git",
+		"branch": "master"
+	},
+	"name": "AppPlants",
+	"description": null,
+	"ver": "25.11.11.1402",
+	"enableCICD": true,
+	"internalReadOnly": false,
+	"oeVersion": null,
+	"excludeTemplateFiles": false,
+	"roles": [],
+	"apps": [
+		{
+			"id": "6b977e78-937f-4c11-bc16-bb5b39a61d6a",
+			"application": "appplant",
+			"title": "",
+			"description": ""
+		}
+	],
+	"api": [
+		{
+			"id": "fc6c677e-d7fa-4a32-87ab-16b4718b74b0",
+			"name": "serverscript",
+			"description": "",
+			"apiGroup": null
+		},
+		{
+			"id": "bc061836-3c8c-460f-8e04-25b11b1dcb23",
+			"name": "external plant apt",
+			"description": "api que busca os dados do enp point externo: https://trefle.io/api",
+			"apiGroup": null
+		}
+	],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [
+		{
+			"id": "d42d4ca9-5a71-446e-9c84-4565d58344c3",
+			"name": "favoritos",
+			"description": "lista das plantas favoritas"
+		}
+	],
+	"jsclass": [
+		{
+			"id": "98d5e0b9-8cd5-440a-8b09-9ff982527f0c",
+			"name": "getPlants2",
+			"description": null
+		},
+		{
+			"id": "2c36947f-388d-4d11-97c9-24bb421451d4",
+			"name": "getPlants",
+			"description": "getplats by page"
+		},
+		{
+			"id": "0d4117bd-02f6-48a5-bccd-3ba18236380c",
+			"name": "script-get-details",
+			"description": "server-script-that-get-a-plant-details"
+		}
+	],
+	"jsscript_group": [
+		{
+			"id": "095ae800-bfa9-40d3-9e2c-e7697d024ce4",
+			"name": "plantScript",
+			"description": ""
+		}
+	],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"tile_layout": [],
+	"category": [],
+	"tilegroup_layout": [],
+	"launchpad": [],
+	"launchpad_layout": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": [],
+	"theme_ui5": []
+}

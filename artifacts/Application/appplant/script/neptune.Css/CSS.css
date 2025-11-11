@@ -1,0 +1,9 @@
+.CustomTitle {
+    font-size: 1.2rem !important;       /* Tamanho da fonte do título */
+    font-weight: bold !important;        /* Negrito */
+    color: #333333 !important;           /* Cor do texto */
+    text-align: center !important;       /* Centraliza o texto */
+    margin: 5px 0 !important;            /* Margem superior e inferior */
+    line-height: 1.4 !important;         /* Espaçamento entre linhas */
+    text-transform: capitalize !important; /* Primeira letra maiúscula de cada palavra */
+}

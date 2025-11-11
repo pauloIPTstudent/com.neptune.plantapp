@@ -1,0 +1,28 @@
+{
+	"id": "0d4117bd-02f6-48a5-bccd-3ba18236380c",
+	"createdAt": "2025-11-07T23:14:09.000Z",
+	"createdBy": "admin",
+	"globalScripts": [],
+	"externalModules": [],
+	"entitySets": [],
+	"apis": [
+		{
+			"id": "294e150e-ed09-4fcd-c5c1-ce93dddf8033",
+			"parent": "bc061836-3c8c-460f-8e04-25b11b1dcb23",
+			"name": "/plants/(ID)?token=usr-6QSnZVaQ6NqREVEm-QPW56uG5ZDHDYMvVKowPNufsas",
+			"contextname": "details",
+			"method": "GET"
+		}
+	],
+	"name": "script-get-details",
+	"ver": "25.11.08.1254",
+	"description": "server-script-that-get-a-plant-details",
+	"folder": "",
+	"content": "file:///content.js",
+	"useAsGlobalScript": false,
+	"lastRunSuccessful": true,
+	"isTypescript": false,
+	"language": "javascript",
+	"jsscriptGroup": "095ae800-bfa9-40d3-9e2c-e7697d024ce4",
+	"package": "97d800db-dca1-4116-90fa-c3fe7e654e34"
+}
