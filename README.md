@@ -62,12 +62,6 @@ It allows users to:
 
 
 
-## ⚙️ How It Works
 
-The app fetches data from the Trefle API using REST requests.
-
-Plant data is displayed in a clean, responsive interface.
-
-User interactions (like favoriting) are saved locally using browser storage.
 
 
